@@ -124,7 +124,7 @@ body{
 
 @media screen and (min-width:1000px){
     body{
-        margin: 1em 2em;
+        margin: 5em 5em;
     }
     .container{
         display: grid;
@@ -132,7 +132,7 @@ body{
         grid-auto-columns: 1fr;
         grid-template-areas: 
         "one one two three"
-        "four five five three"
+        "four five five three";
     }
     .testimonials1{
         grid-area: one;
