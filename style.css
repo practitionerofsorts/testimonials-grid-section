@@ -15,7 +15,7 @@
     --Light-grayish-blue: hsl(210, 46%, 95%);
 }
 body{
-    margin: 5em 1em;
+    margin: 5em .5em;
     background-color: var(--Light-grayish-blue);
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
